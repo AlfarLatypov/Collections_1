@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HW_Collection
+namespace Collection_1
 {
     class Program
     {
